@@ -1,5 +1,5 @@
 
-✨ Passionate developer for more than 10 years
+✨ Passionate developer for more than 15 years
 
 🖥️ Design Office / FullStack Development / Webmaster Pro since 2018
 
