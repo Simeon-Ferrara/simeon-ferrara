@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**Simeon-Ferrara/simeon-ferrara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Passionate developer for more than 10 years
 
-Here are some ideas to get you started:
+🖥️ Design Office / FullStack Development / Webmaster Pro since 2018
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💀 Linked In makes me wanna die
+
+---
+
+Mastered languages:
+- HTML
+- CSS / SCSS / Tailwind
+- Javascript / TypeScript
+- PHP
+- SQL
+- C
+- Bash
+
+Web Frameworks:
+- JQuery
+- Bootstrap
+- React
+
+Tools:
+- Cypress
+- Adobe Photoshop / Adobe XD / Figma
+
+Skills:
+- Web App development
+- Dashboard interfaces
+- API development / integration
+- UI design / integration and UX reflexions
+- Shell scripts
