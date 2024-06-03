@@ -3,8 +3,6 @@
 
 🖥️ Design Office / FullStack Development / Webmaster Pro since 2018
 
-💀 Linked In makes me wanna die
-
 ---
 
 Mastered languages:
