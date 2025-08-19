@@ -5,27 +5,34 @@
 
 ---
 
-Mastered languages:
+#### Front-end
 - HTML
-- CSS / SCSS / Tailwind
+- CSS / SCSS / Tailwind / Bootstrap
 - Javascript / TypeScript
+- React / React Native
+- JQuery
+
+#### Back-end
 - PHP
+- Symfony / Doctrine
 - SQL
+
+#### Others
 - C
 - Bash
 
-Web Frameworks:
-- JQuery
-- Bootstrap
-- React
-
-Tools:
+#### Tools:
 - Cypress
-- Adobe Photoshop / Adobe XD / Figma
+- phpstan
+- php-cs-fixer
+- Adobe suite (Photoshop / illustrator / XD)
+- Figma
 
 Skills:
 - Web App development
+- npm packages (React Custom Library, custom CLI, ...)
 - Dashboard interfaces
 - API development / integration
 - UI design / integration and UX reflexions
 - Shell scripts
+- Github CI/CD
