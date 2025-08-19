@@ -11,20 +11,21 @@
 - Javascript / TypeScript
 - React / React Native
 - JQuery
+- Eslint / Prettier
+- Cypress
 
 #### Back-end
 - PHP
 - Symfony / Doctrine
 - SQL
+- phpstan / php-cs-fixer
+- Meilisearch
 
 #### Others
 - C
 - Bash
 
 #### Tools:
-- Cypress
-- phpstan
-- php-cs-fixer
 - Adobe suite (Photoshop / illustrator / XD)
 - Figma
 
