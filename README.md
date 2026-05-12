@@ -1,39 +1,36 @@
 
-✨ Passionate developer for more than 15 years
+✨ Passionate & professional developer with 15+ years of experience
 
-🖥️ Design Office / FullStack Development / Webmaster Pro since 2018
+🖥️ FullStack Development / Webmaster / Front-End Lead Developer
+
+💀 Linked In makes me wanna die
 
 ---
 
-#### Front-end
+Core Languages:
 - HTML
-- CSS / SCSS / Tailwind / Bootstrap
-- Javascript / TypeScript
-- React / React Native
-- JQuery
-- Eslint / Prettier
-- Cypress
-
-#### Back-end
+- CSS / SCSS
+- JavaScript / TypeScript
 - PHP
-- Symfony / Doctrine
 - SQL
-- phpstan / php-cs-fixer
-- Meilisearch
-
-#### Others
 - C
 - Bash
 
-#### Tools:
-- Adobe suite (Photoshop / illustrator / XD)
-- Figma
+Frameworks & Libraries:
+- React / React Native
+- Symfony / Doctrine
+- Tailwind
+- Bootstrap
+- jQuery
 
-Skills:
-- Web App development
-- npm packages (React Custom Library, custom CLI, ...)
+Tools & Software:
+- Cypress, Jest
+- Figma / Adobe Photoshop
+
+Expertise:
+- Web application development
 - Dashboard interfaces
-- API development / integration
-- UI design / integration and UX reflexions
-- Shell scripts
-- Github CI/CD
+- API development & integration
+- UI design & integration
+- UX thinking
+- Shell scripting
